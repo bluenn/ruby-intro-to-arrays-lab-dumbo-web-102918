@@ -8,7 +8,7 @@ end
 
 def first_element(array)
   array[0]
-end  
+end
 
 def third_element(array)
   array[2]
